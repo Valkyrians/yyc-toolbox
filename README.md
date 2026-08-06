@@ -2,6 +2,8 @@
 
 [![Join the Valkyrians discord server](https://img.shields.io/discord/1236119944714780672?label=Discord&logo=discord&logoColor=white)](https://discord.gg/FRgGkgUhRK)
 
+# ⚠ YYC Toolbox is on a hiatus and has been superseded by GMSuite. Join the Discord server above for more information, updates and teasers.
+
 Basically a YYC mod tool. This is very much a WIP and will take some time to finish.
 
 ## Feature/plans list
@@ -28,7 +30,7 @@ A half-baked Lua API with a documentation we barely update? [Coming right up!](h
 
 ### When do you plan on finishing YYC Toolbox?
 
-Deadline's Q4 2025. May be pushed back to Q1 2026. Tough to say for sure.
+Probably after GMSuite. It could be included within it as a tool.
 
 ### Can I use x from YYC Toolbox?
 
